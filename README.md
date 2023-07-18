@@ -1,0 +1,2 @@
+# Comparison-between-predictive-coding-and-backpropagation-with-mnist
+This GitHub repository contains an implementation of a neural network model using predictive coding for the task of classifying handwritten digits from the MNIST dataset. The goal of this project is to compare the performance of the predictive coding neural network with a traditional neural network trained using backpropagation.
